@@ -523,6 +523,7 @@ ExcludeFromSelect = *
 %QcomDevice91462%  = QportInstall00, USB\VID_05C6&PID_9146&MI_02
 %QcomDevice91466%  = QportInstall00, USB\VID_05C6&PID_9146&MI_06
 %QcomDevice91480%  = QportInstall00, USB\VID_05C6&PID_9148&MI_00
+%QcomDevice91490%  = QportInstall00, USB\VID_05C6&PID_9149&MI_00
 
 [QcomSerialPort.NTarm64]
 %QcomDevice00% = QportInstall00, USB\VID_05C6&PID_3197&MI_01
@@ -1019,6 +1020,7 @@ ExcludeFromSelect = *
 %QcomDevice91462%  = QportInstall00, USB\VID_05C6&PID_9146&MI_02
 %QcomDevice91466%  = QportInstall00, USB\VID_05C6&PID_9146&MI_06
 %QcomDevice91480%  = QportInstall00, USB\VID_05C6&PID_9148&MI_00
+%QcomDevice91490%  = QportInstall00, USB\VID_05C6&PID_9149&MI_00
 
 [QportInstall00.NT]
 CopyFiles=QCUsbDriverFiles
@@ -1618,3 +1620,4 @@ QcomDevice91466  = "Qualcomm HS-USB NMEA 9146"
 QcomDevice91370  = "Qualcomm HS-USB Diagnostics 9137"
 QcomDevice91390  = "Qualcomm HS-USB Diagnostics 9139"
 QcomDevice91480  = "Qualcomm HS-USB Diagnostics 9148"
+QcomDevice91490  = "Qualcomm HS-USB Diagnostics 9149"

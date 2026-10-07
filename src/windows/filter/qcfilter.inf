@@ -309,6 +309,7 @@ qcusbfilter.sys  = 1000
 %qcfilter.DeviceDesc9145%     = qcfilter, USB\VID_05C6&PID_9145
 %qcfilter.DeviceDesc9146%     = qcfilter, USB\VID_05C6&PID_9146
 %qcfilter.DeviceDesc9148%     = qcfilter, USB\VID_05C6&PID_9148
+%qcfilter.DeviceDesc9149%     = qcfilter, USB\VID_05C6&PID_9149
 
 [QualcommFilter.NTarm64]
 %qcfilter.DeviceDesc3197%     = qcfilter, USB\VID_05C6&PID_3197
@@ -591,6 +592,7 @@ qcusbfilter.sys  = 1000
 %qcfilter.DeviceDesc9145%     = qcfilter, USB\VID_05C6&PID_9145
 %qcfilter.DeviceDesc9146%     = qcfilter, USB\VID_05C6&PID_9146
 %qcfilter.DeviceDesc9148%     = qcfilter, USB\VID_05C6&PID_9148
+%qcfilter.DeviceDesc9149%     = qcfilter, USB\VID_05C6&PID_9149
 
 [qcfilter.NT]  
 ;-----------------------------------------------------------------
@@ -1085,3 +1087,4 @@ qcfilter.DeviceDesc9144     = "Qualcomm USB Composite Device 9144"
 qcfilter.DeviceDesc9145     = "Qualcomm USB Composite Device 9145"
 qcfilter.DeviceDesc9146     = "Qualcomm USB Composite Device 9146"
 qcfilter.DeviceDesc9148     = "Qualcomm USB Composite Device 9148"
+qcfilter.DeviceDesc9149     = "Qualcomm USB Composite Device 9149"
